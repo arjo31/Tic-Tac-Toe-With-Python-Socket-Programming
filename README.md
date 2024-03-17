@@ -1,0 +1,1 @@
+I have made a simple Tic Tac Toe server, which allows only two clients (players) to play at a single time in a synchronous way, using socket programming in Python. I have handled the following test cases also; if the indices entered by the user are out of range, and when the location pointed to by the indices in the game board are already filled.
